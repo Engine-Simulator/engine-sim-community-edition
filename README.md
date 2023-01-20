@@ -4,6 +4,10 @@
 
 Welcome to *Engine Simulator - Community Edition*, the free version of *Engine Simulator* by [AngeTheGreat](https://www.youtube.com/@angethegreat). If you're a software developer, the original open-source *Engine Simulator* can be found [here](https://github.com/ange-yaghi/engine-sim).
 
+![Alt text](docs/public/screenshot.PNG?raw=true)
+
+*Engine Simulator* is an engine simulation game that allows you to build, run, test and actually *hear* your engine creations.
+
 ## How to Download Engine Simulator
 
 [Click here to download the most recent release](https://github.com/ange-yaghi/engine-sim/releases/download/v0.1.11a/engine-sim-build_0_1_11a.zip)
