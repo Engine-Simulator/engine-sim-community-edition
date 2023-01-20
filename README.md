@@ -10,7 +10,7 @@ Welcome to *Engine Simulator - Community Edition*, the free version of *Engine S
 
 ## How to Download Engine Simulator
 
-[Click here to download the most recent release](https://github.com/ange-yaghi/engine-sim/releases/download/v0.1.11a/engine-sim-build_0_1_11a.zip)
+[Click here to download the most recent release](https://github.com/Engine-Simulator/engine-sim-community-edition/releases/download/v0.1.12.0a/engine-sim-build_0_1_12_0a.zip)
 
 [Click here](https://github.com/Engine-Simulator/engine-sim-community-edition/releases) for historical releases after v0.1.11a
 
