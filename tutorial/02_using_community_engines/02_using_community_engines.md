@@ -81,5 +81,5 @@ Following the steps in this guide should allow you to load most engines in the o
 
 The next tutorial will teach you how to modify and build engines yourself!
 
-- [Tutorial 3: Running Community Engines](../02_using_community_engines/02_using_community_engines.md)
+- [Tutorial 3: Build Your Own Engines From Scratch](../03_building_engines/03_building_engines.md)
 - [Back to main page](../../README.md)
