@@ -3,7 +3,7 @@
 **This tutorial assumes that you are using `v0.1.12a` or higher.**
 
 ## Step 1 - Download and Install Engine Simulator
-Follow the instructions for download/installation on the [main page](../README.md).
+Follow the instructions for download/installation on the [main page](../../README.md).
 
 ## Step 2 - Start Engine Simulator
 Navigate to `bin/` and run `engine-sim-app.exe`
