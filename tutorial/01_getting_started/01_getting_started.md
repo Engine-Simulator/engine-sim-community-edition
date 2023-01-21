@@ -41,7 +41,7 @@ The system status lights in the bottom left corner show the states of the igniti
 ![Alt text](assets/screenshot_06.PNG?raw=true)
 
 ### 1. Turn the ignition on with the `a` key
-To turn the ignition on and off, press the `a` key. You should see the ignition indicator lot turn on. In a real spark ignition engine, "ignition" indicates that the ignition module is active and the spark plugs will fire. It has the same meaning in *Engine Simulator*.
+To turn the ignition on and off, press the `a` key. You should see the ignition indicator light turn on. In a real spark ignition engine, "ignition" indicates that the ignition module is active and the spark plugs will fire. It has the same meaning in *Engine Simulator*.
 
 ### 2. Enable the starter with the `s` key
 The starter is a small electric motor that is fitted to most internal combustion engines. It spins the motor initially so that it can start and then run on its own power. Pressing the `s` key will engage the starter. Once the engine is running under its own power, you can let go of the `s` key.
@@ -73,13 +73,13 @@ If this stalls your engine, it's probably because the engine idles higher than t
 Dyno tests in real-life are usually conducted at full-throttle. You could nonetheless do a part-throttle dyno test if you really want to.
 
 ### 3. Wait for the dyno to reach the engine's redline
-The dynometer will continue increasing its speed until either reaching the engine's redline or until it senses that the engine can no longer apply a positive torque to the dynamometer (ie the engine requries external help to maintain engine speed).
+The dynometer will continue increasing its speed until either it reaches the engine's redline or it senses that the engine can no longer apply a positive torque to the dynamometer (ie. the engine requries external help to maintain engine speed).
 
-Once the dyno speed reached the engine's redline, the dynamometer is automatically disabled and the maximum torque and power are displayed on the "Torque" and "Power" gauges.
+When the dyno can no longer increase its speed, it is automatically disabled and the maximum torque and power are displayed on the "Torque" and "Power" gauges.
 
 ![Alt text](assets/screenshot_08.PNG?raw=true)
 
-To get a read-out of the peak torque and power, press the `i` key. The read-out will be displayed in the status text in the top right corner.
+To get a read-out of the peak torque and power, press the `i` key. The read-out will be displayed in the status text in the top left corner.
 
 ![Alt text](assets/screenshot_09.PNG?raw=true)
 
@@ -116,7 +116,7 @@ Pressing the `tab` key will change between display layouts.
 ![Alt text](assets/screenshot_13.PNG?raw=true)
 
 ## Step 7 - Drive a Vehicle
-*Engine Simulator* comes with a simple vehicle simulation with a manual transmission. Launching is the same as launching a vehicle in real-life but is somewhat complicated by the lack of smooth pedal inputs. Nontheless, it can be done (though controller/steering wheel support is planned)
+*Engine Simulator* comes with a simple vehicle simulation with a manual transmission. Launching is the same as launching a vehicle in real-life but is somewhat complicated by the lack of smooth pedal inputs. Nontheless, it can be done (though controller/steering wheel support is planned).
 
 ### 1 - Press the clutch pedal with the `shift` key
 The `shift` key presses the clutch in (ie disconnects the transmission from the engine). The pressure applied by the clutch disk on the flywheel is shown in the **Clutch** gauge. 0 is equivalent to the clutch pedal being completely pressed.
@@ -147,7 +147,7 @@ An engine's braking capabilities can be measured using the dynamometer as well u
 Nothing will happen immediately upon enabling the hold feature because it also requires the dynamometer to be active.
 
 ### 2 - Enable the dynamometer by pressing the `d` key
-The dynamometer will not spin the engine at the speed shown in the "Dyno. Speed" gauge.
+The dynamometer will now spin the engine at the speed shown in the "Dyno. Speed" gauge.
 
 ### 3 - Change the dyno speed by holding `g` and scrolling up/down with the mouse wheel
 After adjusting the speed, you can read the measured torque and power of the engine which will usually be negative if the throttle is closed.
@@ -159,7 +159,7 @@ To change the engine being simulated, press on the "Load Script" button in the u
 
 ![Alt text](assets/screenshot_18.PNG?raw=true)
 
-Then, navigate to the location that you unzipped *Engine Simulator*. To load one of the engines that appeared in AngeTheGreat's video series, open an engine in `assets/engines/atg-video-1/` or `assets/engines/atg-video-2/`.
+Then, navigate to the location that you unzipped *Engine Simulator* to. To load one of the engines that appeared in AngeTheGreat's video series, open an engine in `assets/engines/atg-video-1/` or `assets/engines/atg-video-2/`.
 
 Allow a little time for the script to load and for the simulation to stabilize.
 
@@ -177,9 +177,9 @@ Navigate to the location where you unzipped *Engine Simulator* then go to `asset
 ![Alt text](assets/screenshot_21.PNG?raw=true)
 
 ## "Blown" Engines
-It can sometimes happen that an engine "explodes" or disappears off the screen. This means that the simulation has reached an unsolvable state from which the simulator cannot recover. This *shouldn't* happen under normal conditions but can happen if you lower the simulation frequency too much or try to run a physically impossible engine.
+It can sometimes happen that an engine "explodes" or disappears off the screen. This means that the simulator has reached an unsolvable state from which it cannot recover. This *shouldn't* happen under normal conditions but can happen if you lower the simulation frequency too much or try to run a physically impossible engine.
 
-There is no way to bring the engine back after it "explodes" in this way. The best option is to press the "Reload" button in top left corner which will reset the engine and the simulation.
+There is no way to bring the engine back after it "explodes" in this way. The best option is to press the "Reload" button in top left corner or pressing the `enter` key which will reset the engine and the simulation.
 
 ![Alt text](assets/screenshot_22.PNG?raw=true)
 
