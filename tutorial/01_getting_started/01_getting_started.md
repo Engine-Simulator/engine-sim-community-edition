@@ -3,7 +3,7 @@
 **This tutorial assumes that you are using `v0.1.12a` or higher.**
 
 ## Step 1 - Download and Install Engine Simulator
-Follow the instructions for download/installation on the [main page](../../README.md).
+Follow the instructions for downloading/installing *Engine Simulator* on the [main page](../../README.md).
 
 ## Step 2 - Start Engine Simulator
 Navigate to `bin/` and run `engine-sim-app.exe`
@@ -36,7 +36,7 @@ To adjust the tickrate, hold the `n` key and scroll down with your mouse. Once t
 **IMPORTANT:** different engines have different performance requirements so you may have to adjust this differently for different engines
 
 ## Step 3 - Start the Engine
-The system status lights in the bottom right corner show the states of the ignition, starter, dynamometer and dynomometer hold functions. For now, we're only concerned with the ignition and starter lights.
+The system status lights in the bottom left corner show the states of the ignition, starter, dynamometer and dynomometer hold functions. For now, we're only concerned with the ignition and starter lights.
 
 ![Alt text](assets/screenshot_06.PNG?raw=true)
 
