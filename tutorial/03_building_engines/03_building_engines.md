@@ -22,7 +22,7 @@ Once the extension is installed, `.mr` files should be colored in VS Code.
 ![Alt text](assets/screenshot_03.PNG?raw=true)
 
 ## 1 - Setting up the Script
-1. Create a new file called `tutorial-engine.mr`. It can be called whatever you want by the `.mr` extension must be present
+1. Create a new file called `tutorial-engine.mr`. It can be called whatever you want, however the `.mr` extension must be present
 2. Open the file in VS Code (or the text editor of your choice)
 3. The first step is to include the following line at the top of the file, which will import everything needed from the *Engine Simulator* library.
 
