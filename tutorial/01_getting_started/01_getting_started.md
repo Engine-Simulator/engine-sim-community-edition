@@ -126,7 +126,7 @@ The `shift` key presses the clutch in (ie disconnects the transmission from the 
 ![Alt text](assets/screenshot_14.PNG?raw=true)
 
 ### 2 - Give the engine part throttle with `w` or `e`
-This will depend on the engine. If you want to smoke your clutch completely, you can bounce of the rev-limiter instead of holding part-throttle. For some engines, it might be too difficult to launch without the fine control of a clutch pedal. In that case, simply holding the engine at full throttle will suffice.
+This will depend on the engine. If you want to smoke your clutch completely, you can bounce off the rev-limiter instead of holding part-throttle. For some engines, it might be too difficult to launch without the fine control of a clutch pedal. In that case, simply holding the engine at full throttle will suffice.
 
 ### 3 - Shift into first gear by pressing the `up` key
 Gears are changed using the `up` and `down` arrow keys. The current gear is displayed in the **Gear** display.
