@@ -35,6 +35,8 @@ To adjust the tickrate, hold the `n` key and scroll down with your mouse. Once t
 
 **IMPORTANT:** different engines have different performance requirements so you may have to adjust this differently for different engines
 
+**If you still experience audio distortions even after following the above procedure**, check the `IN. BUFFER` gauge. If the gauge is erratic or moves very far to the right or left, your CPU is struggling to keep up with the real-time audio processing. There is no solution to this right now but a fix is planned for future versions. Different engines have different audio processing requirements and so they may work on your PC. Typically engines with 2 or more exhaust systems tend to be the most expensive.
+
 ## Step 3 - Start the Engine
 The system status lights in the bottom left corner show the states of the ignition, starter, dynamometer and dynomometer hold functions. For now, we're only concerned with the ignition and starter lights.
 
