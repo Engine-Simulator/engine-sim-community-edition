@@ -2,7 +2,7 @@
 
 [Click here to download the most recent release for Windows](https://github.com/Engine-Simulator/engine-sim-community-edition/releases/download/v0.1.12.2a/engine-sim-build_0_1_12_2a.zip)
 
-[Please read the installation instructions below.](##-Installation-Instructions)
+[Please read the installation instructions below.](#installation-Instructions)
 
 ## Introduction
 
