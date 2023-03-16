@@ -2,6 +2,8 @@
 
 [Click here to download the most recent release for Windows](https://github.com/Engine-Simulator/engine-sim-community-edition/releases/download/v0.1.12.2a/engine-sim-build_0_1_12_2a.zip)
 
+[Please read the installation instructions below.](##-Installation-Instructions)
+
 ## Introduction
 
 Welcome to *Engine Simulator - Community Edition*, the free version of *Engine Simulator* by [AngeTheGreat](https://www.youtube.com/@angethegreat). If you're a software developer, the original open-source *Engine Simulator* can be found [here](https://github.com/ange-yaghi/engine-sim).
