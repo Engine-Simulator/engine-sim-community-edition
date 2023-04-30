@@ -27,7 +27,7 @@ Welcome to *Engine Simulator - Community Edition*, the free version of *Engine S
 2. Unzip the `.zip` file wherever you like
 3. Inside the unzipped directory, navigate to the `bin/` folder
 4. Run `engine-sim-app.exe`
-5. If an error message pops up saying you are missing a DLL, run the `.exe` files inside the `installation/` folder. These will install the dependencies that *Engine Simulator* needs to run if they're not already on your computer
+5. **For v0.1.13a or earlier**: If an error message pops up saying you are missing a DLL, run the `.exe` files inside the `installation/` folder. These will install the dependencies that *Engine Simulator* needs to run if they're not already on your computer
 
 ## Controls
 *Engine Simulator* uses a minimalistic UI driven by keybinds. The most important ones are below.
