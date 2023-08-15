@@ -12,6 +12,11 @@ Welcome to *Engine Simulator - Community Edition*, the free version of *Engine S
 
 *Engine Simulator* is an engine simulation game that allows you to build, run, test and actually *hear* your engine creations.
 
+## What is this?
+
+This is a real-time internal combustion engine simulation designed specifically to produce engine audio and simulate engine response characteristics. It is **NOT** a scientific tool and cannot be expected to provide accurate figures for the purposes of engineering or engine tuning.
+
+
 ## How to Download Engine Simulator
 
 [Click here to download the most recent release](https://github.com/Engine-Simulator/engine-sim-community-edition/releases/download/v0.1.14a/engine-sim-v0.1.14a.zip)
